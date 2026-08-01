@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.env
+credentials.json
+token.json
+sync_state.json
+*.pyc
+downloads/
+*.csv
